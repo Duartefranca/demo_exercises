@@ -1,6 +1,6 @@
 
 
-/* let count=0;
+ let count=0;
 while (count < 5) {
     count++;
     
@@ -9,7 +9,7 @@ while (count < 5) {
     }
     console.log(count);
 } 
- */
+
 
 let ourCampus = 'Onions';
 for (const value of ourcampus) {
